@@ -1,0 +1,12 @@
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\bin\Debug\net6.0\Logica.dll
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\obj\Debug\net6.0\Logica.dll
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\obj\Debug\net6.0\Logica.pdb
+C:\Users\kfigu\Documents\USM022022\SISTEMAS_DESARROLLO\Contactos\Logica\obj\Debug\net6.0\ref\Logica.dll
